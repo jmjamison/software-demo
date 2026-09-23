@@ -9,4 +9,4 @@ Analysis tools for biodiversity research data.
 > branch in the branch dropdown.
 >
 > ## License
-> This project is licensed under GPL 2.0.
+> This project is licensed under GNU General Public License v2.0.
