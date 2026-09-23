@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Biodiversity Analysis Toolkit
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jina
+    name-particle: Jamie
+    family-names: Jamison
+    email: jamison@library.ucla.edu
+    affiliation: UCLA
+    orcid: 'https://orcid.org/0000-0002-5116-5724'
+repository-code: 'https://github.com/jmjamison/software-demo'
+abstract: Analysis tools for biodiversity research data.
+license: GPL-2.0
